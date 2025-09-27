@@ -7,7 +7,9 @@ The raw dataset files (`PSY.csv`, `TIVA.csv`, `EEG.csv`) are **not included** in
 
 To run the notebooks:
 
-1. Download the dataset from [Google Drive / IITB portal link].  
+1. Download the dataset from.
+https://springernature.figshare.com/articles/dataset/A_multisensor_dataset_of_south_asian_post-graduate_students_working_on_mental_rotation_tasks/28120670?file=51439640 
+
 2. Place the CSV files in the `data/` folder:
 project/
 data/
